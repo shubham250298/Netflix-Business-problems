@@ -1,1 +1,1 @@
-# Netflix-Business-problems
+# Netflix-SQL-Project
